@@ -638,7 +638,7 @@ body {
   letter-spacing: 0.03em;
   color: var(--color-white);
   margin: 0;
-  padding: 49px 45px 49px;
+  padding: 49px 45px 49px 24px;
 }
 
 .backdrop {
